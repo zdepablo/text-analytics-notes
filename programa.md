@@ -1,16 +1,18 @@
-1. Introducción.
- - Niveles del lenguaje.
- - Tareas de Procesamiento de Lenguaje y Recuperacion de información
- - Paradigmas de PLN : lingüistico, estadístico.
+# Análitica de textos 
+
+1. Introducción
+  1. Niveles del lenguaje.
+  2. Tareas de Procesamiento de Lenguaje y Recuperacion de información
+  3. Paradigmas de PLN : lingüistico, estadístico.
 2. Modelos de representación de la informacion no estructurada:
- - Corpora y esquemas de anotación.
- - TF-IDF, BM-25, modelos de lenguaje, n-gramas.
+  1. Corpora y esquemas de anotación.
+  2. TF-IDF, BM-25, modelos de lenguaje, n-gramas.
 3. Clasificación y clustering de textos.
 4. Nociones prácticas de buscadores, crawling y scraping.
 5. Extracción de información:
-    - Extraccion de entidades
-    - Extracción de relaciones y eventos
-      - Linked Data
+  1. Extraccion de entidades
+  2. Extracción de relaciones y eventos
+  3. Linked Data
 6. Análisis de sentimiento.
 7. Visualización de información textual.
 
