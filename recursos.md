@@ -3,18 +3,18 @@
 ## Transparencias del profesor 
 
 ## Recursos software 
-* GATE         - entorno de desarrollo de sistemas y componentes NLP (Java) https://gate.ac.uk/
-* NLTK         - herramientas de desarrollo de componentes NLP (Python) http://www.nltk.org/
-* Textalytics  - API de analítica de texto   http://textalytics.com/inicio  
+* [GATE][https://gate.ac.uk/]     - entorno de desarrollo de sistemas y componentes NLP (Java) 
+* [NLTK][http://www.nltk.org/]         - herramientas de desarrollo de componentes NLP (Python) 
+* [Textalytics][http://textalytics.com]  - API de analítica de texto     
 
-* scikit-learn - herramientas de aprendizaje automático (Python)  http://scikit-learn.org/
+* [scikit-learn][http://scikit-learn.org/] - herramientas de aprendizaje automático (Python)  
 * Weka         - herramientas de aprendizaje automático (Java) 
 
-* Elasticsearch - motor de búsqueda e indexacion http://www.elasticsearch.org/
-* Scrapy        - herramienta de scraping web (Python)  http://scrapy.org/
-* d3js          - herramientas de visualización (Javascript) http://d3js.org/
+* [Elasticsearch][http://www.elasticsearch.org/] - motor de búsqueda e indexacion 
+* [Scrapy][http://scrapy.org/] - herramienta de scraping web (Python)  
+* [d3js][http://d3js.org/]  - herramientas de visualización (Javascript) 
 
-# Bibliografía 
+## Bibliografía 
 
 * Steven Bird, Ewan Klein, and Edward Loper **Natural Language Processing with Python** (UPDATED FOR PYTHON 3)
 --- Analyzing Text with the Natural Language Toolkit
