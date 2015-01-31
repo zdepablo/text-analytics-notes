@@ -1,8 +1,7 @@
 # NLP resources, software and learning resources 
 
-
-## Article extraction
-# Software 
+## Text Article extraction
+### Software 
 * [Boilerpipe](https://code.google.com/p/boilerpipe/) - tuned extractors for several use case e.g news - Java - 
    - available as a service: http://boilerpipe-web.appspot.com/
 * Readability 
@@ -20,9 +19,10 @@
 * Beatiful soup
 * Tag soup
 * Neko HTML
-# Datasets
+### Datasets
 * cleaneval
 * Google news dataset (by Boilerpipe) 
 
-# Comparison 
+#### Comparison 
 http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
+
