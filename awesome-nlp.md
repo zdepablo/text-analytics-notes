@@ -26,3 +26,9 @@
 #### Comparison 
 http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 
+## Word Sense Disambiguation 
+## Correference Resolution 
+## Semantic Role Labelling
+## Machine Translation
+## Text Alignment
+## Textual Entailment
