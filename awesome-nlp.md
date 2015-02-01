@@ -26,6 +26,9 @@
 #### Comparison 
 http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 
+## Annotation tools
+* [BRAT](http://brat.nlplab.org/)
+
 ## Word Sense Disambiguation 
 ## Correference Resolution 
 ## Semantic Role Labelling
