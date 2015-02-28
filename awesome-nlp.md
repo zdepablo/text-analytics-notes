@@ -16,7 +16,7 @@
 * [Goose](https://github.com/jiminoc/goose) - Scala - open source by Gravity - Apache 2.0 
    - availables as a service: http://juicer.herokuapp.com/
 * [ReadabilityBUNDLE](https://github.com/srijiths/readabilityBUNDLE) -bundles snacktory, goose and java-readability
-* Beatiful soup
+* Beatiful soup [python](http://www.crummy.com/software/BeautifulSoup/) - MIT license
 * Tag soup
 * Neko HTML
 ### Datasets
