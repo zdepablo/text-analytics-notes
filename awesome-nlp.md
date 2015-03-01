@@ -16,7 +16,7 @@
 * [Goose](https://github.com/jiminoc/goose) - Scala - open source by Gravity - Apache 2.0 
    - availables as a service: http://juicer.herokuapp.com/
 * [ReadabilityBUNDLE](https://github.com/srijiths/readabilityBUNDLE) -bundles snacktory, goose and java-readability
-* Beatiful soup
+* Beatiful soup [python](http://www.crummy.com/software/BeautifulSoup/) - MIT license
 * Tag soup
 * Neko HTML
 ### Datasets
@@ -35,3 +35,6 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 ## Machine Translation
 ## Text Alignment
 ## Textual Entailment
+
+## Other utilities 
+* [Feedparser](http://code.google.com/p/feedparser/) - Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds
