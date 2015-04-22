@@ -1,9 +1,0 @@
-# Regexp Chunk Parsing Grammar
-# Saved Mon Apr 13 00:41:38 2015
-#
-# Development set: conll2000
-#   Precision: Not finished evaluation yet
-#   Recall:    Not finished evaluation yet
-#   F-score:   Not finished evaluation yet
-
-NP: {<DT>?<JJ.*>*<NN.*>+}
