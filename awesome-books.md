@@ -50,6 +50,9 @@
   * [R Programming for Data Science](https://leanpub.com/rprogramming)
   * [Advanced R] (http://adv-r.had.co.nz/) Hadley Wickam
   
+### Python 
+  * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
+  
 ### Spark 
  * [Databricks Spark Reference Application](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
  
