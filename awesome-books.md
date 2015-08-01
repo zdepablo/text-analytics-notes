@@ -67,6 +67,9 @@
 ### Hadoop 
  [Hadoop Illuminated](http://hadoopilluminated.com/hadoop_illuminated/index.html)
 
+### Git 
+ [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+
 ## Functional Programming 
  * [Profesor Frisby's Mostly adequate book to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide/)  - Gitbook in dev
  * [Scala by example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) Martin Odersky
