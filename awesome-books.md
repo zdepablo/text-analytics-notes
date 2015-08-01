@@ -34,7 +34,7 @@
 * [Machine Learning - The complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide) - articles from Wikipedia
 * [Data Science at the Command Line](http://datascienceatthecommandline.com/)
 * [ntroduction to Probability, Statistics, and Random Processes](http://www.probabilitycourse.com/preface.php)
-
+* [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) 
 
 ## Recommender systems 
 * [Probabilistic Approaches to Recommendations](http://www.morganclaypool.com/doi/abs/10.2200/S00574ED1V01Y201403DMK009)
@@ -44,6 +44,8 @@
 * [Probabilistic Models of Cognition](https://probmods.org/)
 
 ## Information Visualization
+[Data Visualization with Javascript](http://jsdatav.is/intro.html)
+
 
 ## Tools
 ### R 
