@@ -14,6 +14,9 @@
 ## Social Network Analysis 
  [Twitter : A digital socioscope](https://sites.google.com/site/twitterdigitalsocioscope/)
 
+## Linked Data 
+ [Linked Data: Evolving the Web into a Global Data Space](http://linkeddatabook.com/editions/1.0/)
+
 ## Data Science
 * [Mining Massive Datasets](http://www.mmds.org/) Jure Leskovec, Anand Rajaraman, Jeff Ullman
 * [Deep Learning](http://www-labs.iro.umontreal.ca/~bengioy/DLbook/) - An MIT Press book in preparation. Yoshua Bengio, Ian Goodfellow and Aaron Courville
@@ -34,7 +37,8 @@
 * [Machine Learning - The complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide) - articles from Wikipedia
 * [Data Science at the Command Line](http://datascienceatthecommandline.com/)
 * [ntroduction to Probability, Statistics, and Random Processes](http://www.probabilitycourse.com/preface.php)
-* [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) 
+* [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+* [Data Science in Python](http://blog.yhathq.com/posts/data-science-in-python-tutorial.html)
 
 ## Recommender systems 
 * [Probabilistic Approaches to Recommendations](http://www.morganclaypool.com/doi/abs/10.2200/S00574ED1V01Y201403DMK009)
@@ -54,6 +58,7 @@
   
 ### Python 
   * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
+  * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
   
 ### Spark 
  * [Databricks Spark Reference Application](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
@@ -70,9 +75,15 @@
 ### Git 
  [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
+### Command line 
+ [Unix for poets](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf)
+
 ## Functional Programming 
  * [Profesor Frisby's Mostly adequate book to Functional Programming](http://drboolean.gitbooks.io/mostly-adequate-guide/)  - Gitbook in dev
  * [Scala by example](http://www.scala-lang.org/docu/files/ScalaByExample.pdf) Martin Odersky
+
+## Crowsourcing 
+ * [Crowsourcing and Human Computation](http://crowdsourcing-class.org/)
 
 ## Other interesting lists: 
  * (https://github.com/donnemartin/data-science-ipython-notebooks)
