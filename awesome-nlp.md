@@ -47,6 +47,8 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 * [Feedparser](http://code.google.com/p/feedparser/) - Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds
 * [Oryx 2](http://oryx.io/index.html) - Real time machine learning at scale - lambda architecture 
 * [JkernelMachines](https://github.com/davidpicard/jkernelmachines) - Structured kernels
+* [Pattern](http://www.clips.ua.ac.be/pages/pattern)
+* [Topia TermExtract](https://pypi.python.org/pypi/topia.termextract/)
 
 ## Data Repositories 
  * [Datahub](http://datahub.io/) - Open Knowledge foundation
