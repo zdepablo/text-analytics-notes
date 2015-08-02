@@ -11,6 +11,7 @@
 * Graph-based Natural Language Processing and Information Retrieval
 * Natural Language Procesing for the Worker Programmer (http://nlpwp.org/book/) - in Haskell
 * Speech and Language Processing (http://www.cs.colorado.edu/~martin/slp.html)
+* [Taming Text](http://www.manning.com/ingersoll/)
 
 ## Social Network Analysis 
  [Twitter : A digital socioscope](https://sites.google.com/site/twitterdigitalsocioscope/)
@@ -42,6 +43,9 @@
 * [ntroduction to Probability, Statistics, and Random Processes](http://www.probabilitycourse.com/preface.php)
 * [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Data Science in Python](http://blog.yhathq.com/posts/data-science-in-python-tutorial.html)
+* [An Introduction to Data Mining](http://saedsayad.com/data_mining_map.htm)
+
+* [Data Science Specialization JHU](https://github.com/DataScienceSpecialization/courses)
 
 ## Recommender systems 
 * [Probabilistic Approaches to Recommendations](http://www.morganclaypool.com/doi/abs/10.2200/S00574ED1V01Y201403DMK009)
@@ -52,12 +56,23 @@
 
 ## Information Visualization
 [Data Visualization with Javascript](http://jsdatav.is/intro.html)
+[Awesome - Dataviz](https://github.com/fasouto/awesome-dataviz)
+[Vizipedia - a data visualization library](http://www.vizipedia.com/)
 
+## Streaming Algorithms 
+ * https://gist.github.com/debasishg/8172796?imm_mid=0d16f4&cmp=em-data-na-na-newsltr_20150506
 
 ## Tools
 ### R 
+  * [R in Action](http://www.manning.com/kabacoff2/)
   * [R Programming for Data Science](https://leanpub.com/rprogramming)
+  * [Data Science in R](http://garrettgman.github.io/)
+  * [Data wrangling, exploration, and analysis with R (course)](http://stat545-ubc.github.io/index.html)
   * [Advanced R] (http://adv-r.had.co.nz/) Hadley Wickam
+  * [Awesome R](https://github.com/qinwf/awesome-R)
+  * [Datacamp](https://www.datacamp.com/)
+  * https://rpubs.com/soofaloofa/92640
+  * https://rpubs.com/jesuscastagnetto/caret-knn-cancer-prediction
   
 ### Python 
   * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
@@ -66,8 +81,10 @@
   * [Text Processing in Python](http://gnosis.cx/TPiP/)
   * [NBViewer Collection of Notebooks](http://nbviewer.ipython.org/)
   * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
+  * [Awesome Python](https://github.com/vinta/awesome-python)
   * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html)
   * [TextBlob](http://textblob.readthedocs.org/en/dev/install.html)
+  
   * iPython Notebooks
    * https://github.com/ogrisel/parallel_ml_tutorial 
    * https://github.com/ellisonbg/talk-2014-strata-sc
@@ -102,7 +119,7 @@
    * https://dato.com/learn/gallery/notebooks/graph_analytics_movies.html
    * http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb
    * http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb
-   
+   * https://github.com/google/deepdream/blob/master/dream.ipynb
   
 ### Spark 
  * [Databricks Spark Reference Application](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
@@ -135,6 +152,7 @@
  * [Crowsourcing and Human Computation](http://crowdsourcing-class.org/)
 
 ## Other interesting lists: 
+ * [Cheatsheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
  * (https://github.com/donnemartin/data-science-ipython-notebooks)
  * (https://github.com/tryolabs/awesome-tryo)
  * (http://www.wzchen.com/data-science-books)
