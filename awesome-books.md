@@ -11,8 +11,10 @@
 * Graph-based Natural Language Processing and Information Retrieval
 * Natural Language Procesing for the Worker Programmer (http://nlpwp.org/book/) - in Haskell
 * Speech and Language Processing (http://www.cs.colorado.edu/~martin/slp.html)
+
 ## Social Network Analysis 
  [Twitter : A digital socioscope](https://sites.google.com/site/twitterdigitalsocioscope/)
+ [Social Media Mining](http://dmml.asu.edu/smm/)
 
 ## Linked Data 
  [Linked Data: Evolving the Web into a Global Data Space](http://linkeddatabook.com/editions/1.0/)
