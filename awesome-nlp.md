@@ -29,12 +29,27 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 ## Annotation tools
 * [BRAT](http://brat.nlplab.org/)
 
-## Word Sense Disambiguation 
+## Word Sense Disambiguation
+
+## Distributional semantics 
+  * [Word2vec](https://code.google.com/p/word2vec/)
+  
 ## Correference Resolution 
 ## Semantic Role Labelling
 ## Machine Translation
 ## Text Alignment
 ## Textual Entailment
 
+## Lexical Resources and Graph Knowledge Bases
+  * [Babelnet](http://babelnet.org/)
+
 ## Other utilities 
 * [Feedparser](http://code.google.com/p/feedparser/) - Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds
+* [Oryx 2](http://oryx.io/index.html) - Real time machine learning at scale - lambda architecture 
+* [JkernelMachines](https://github.com/davidpicard/jkernelmachines) - Structured kernels
+
+## Data Repositories 
+ * [Datahub](http://datahub.io/) - Open Knowledge foundation
+ * [CommonCrawl](http://commoncrawl.org/)
+ * 
+
