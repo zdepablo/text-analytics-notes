@@ -15,6 +15,7 @@
 ## Social Network Analysis 
  [Twitter : A digital socioscope](https://sites.google.com/site/twitterdigitalsocioscope/)
  [Social Media Mining](http://dmml.asu.edu/smm/)
+ [Mining the Social Web](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb)
 
 ## Linked Data 
  [Linked Data: Evolving the Web into a Global Data Space](http://linkeddatabook.com/editions/1.0/)
@@ -60,10 +61,56 @@
   
 ### Python 
   * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
+  * [Dive into Python](http://www.diveintopython.net/)
+  * [Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
+  * [Text Processing in Python](http://gnosis.cx/TPiP/)
+  * [NBViewer Collection of Notebooks](http://nbviewer.ipython.org/)
   * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
+  * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html)
+  * [TextBlob](http://textblob.readthedocs.org/en/dev/install.html)
+  * iPython Notebooks
+   * https://github.com/ogrisel/parallel_ml_tutorial 
+   * https://github.com/ellisonbg/talk-2014-strata-sc
+   * https://jakevdp.github.io/
+   * https://github.com/jvns/pandas-cookbook
+   * http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb
+   * http://blog.yhathq.com/posts/sparse-random-projections.html
+   * http://nbviewer.ipython.org/gist/rpmuller/5920182
+   * https://beta.oreilly.com/learning/operations-in-pandas
+   * https://beta.oreilly.com/learning/data-indexing-and-selection
+   * https://beta.oreilly.com/learning/pivot-tables
+   * http://blog.dominodatalab.com/pandas-categoricals/
+   * http://radimrehurek.com/data_science_python/
+   * http://sebastianraschka.com/Articles/2014_python_lda.html
+   * http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/
+   * https://indico.io/blog/plotlines/
+   * https://chrisjmccormick.wordpress.com/2015/06/12/minhash-tutorial-with-python-code/
+   * http://gabrielelanaro.github.io/blog/2015/07/11/natural-language-processing-python.html
+   * http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a
+   * http://www.katrinerk.com/courses/python-worksheets/hidden-markov-models-for-pos-tagging-in-python
+   * http://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
+   * http://blogs.skicelab.com/maurizio/unicode-common-pitfalls.html
+   * http://farmdev.com/talks/unicode/
+   * https://pythonhosted.org/kitchen/unicode-frustrations.html
+   * http://blog.dato.com/sentiment-analysis-in-five-lines-of-python
+   * http://nbviewer.ipython.org/github/halflings/python-data-workshop/blob/master/data-workshop-notebook.ipynb
+   * http://nbviewer.ipython.org/github/Syrios12/learningwithdata/blob/master/Python_For_Data_Mining.ipynb
+   * http://marcobonzanini.com/2015/01/19/sentiment-analysis-with-python-and-scikit-learn/
+   * http://districtdatalabs.silvrback.com/simple-csv-data-wrangling-with-python
+   * http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0b6350b6a4911e2/docs/Large%20Scale%20PGM%20Inference.ipynb
+   * https://github.com/jseabold/538model
+   * https://dato.com/learn/gallery/notebooks/graph_analytics_movies.html
+   * http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb
+   * http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb
+   
   
 ### Spark 
  * [Databricks Spark Reference Application](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
+
+### Python + Spark
+  * https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python
+  * http://blog.cloudera.com/blog/2014/08/how-to-use-ipython-notebook-with-apache-spark/
+
  
 ### Elastic 
 * [Elasticsearch - The definitive guide](https://www.gitbook.com/book/allen8807/elasticsearch-definitive-guide-en/details)
