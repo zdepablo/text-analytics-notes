@@ -55,9 +55,10 @@
 * [Probabilistic Models of Cognition](https://probmods.org/)
 
 ## Information Visualization
-[Data Visualization with Javascript](http://jsdatav.is/intro.html)
-[Awesome - Dataviz](https://github.com/fasouto/awesome-dataviz)
-[Vizipedia - a data visualization library](http://www.vizipedia.com/)
+* [Data Visualization with Javascript](http://jsdatav.is/intro.html)
+* [Awesome - Dataviz](https://github.com/fasouto/awesome-dataviz)
+* [Data Visualization Catalogue](http://www.datavizcatalogue.com/)
+* [Vizipedia - a data visualization library](http://www.vizipedia.com/)
 
 ## Streaming Algorithms 
  * https://gist.github.com/debasishg/8172796?imm_mid=0d16f4&cmp=em-data-na-na-newsltr_20150506
