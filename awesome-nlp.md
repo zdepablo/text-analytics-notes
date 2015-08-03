@@ -40,6 +40,9 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 ## Text Alignment
 ## Textual Entailment
 
+## Sentiment Analysis 
+* [Sentiment Analysis with Incremental Learning](https://github.com/uiuc-ischool-scanr/SAIL)
+
 ## Lexical Resources and Graph Knowledge Bases
   * [Babelnet](http://babelnet.org/)
 
@@ -49,8 +52,30 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 * [JkernelMachines](https://github.com/davidpicard/jkernelmachines) - Structured kernels
 * [Pattern](http://www.clips.ua.ac.be/pages/pattern)
 * [Topia TermExtract](https://pypi.python.org/pypi/topia.termextract/)
+* [deeplearning4j](http://deeplearning4j.org/)
+* [Mallet](http://mallet.cs.umass.edu/)
+* [Apache cTakes](http://ctakes.apache.org/)
+* [Apache UIMA](https://uima.apache.org/)
+* [GATE](https://gate.ac.uk/)
+* [Apache OpenNLP](http://opennlp.apache.org/)
+* [Apache Lucene and Solr](http://lucene.apache.org/)
+* [NLTK](http://www.nltk.org/)
+* [Stanford NLP](http://nlp.stanford.edu/software/corenlp.shtml)
+* [Meta](https://github.com/meta-toolkit/meta)
+* [DIG](https://github.com/NextCenturyCorporation/dig) http://usc-isi-i2.github.io/dig/ https://github.com/usc-isi-i2
+* [TextBlob](http://textblob.readthedocs.org/en/dev/)
+* [Gensim](http://radimrehurek.com/gensim/)
+* [Pynlpl](https://github.com/proycon/pynlpl)
+* [LingPipe](http://alias-i.com/lingpipe/)
+* [Freeling](http://nlp.lsi.upc.edu/freeling/)
+* [SharpNLP](https://sharpnlp.codeplex.com/)
+* [aboditNLP](http://nlp.abodit.com/)
+* [Elastic](https://www.elastic.co/)
+* [Sphinx](http://sphinxsearch.com/)
+* [WordTree](http://www.jasondavies.com/wordtree/) https://blogs.princeton.edu/etc/2012/08/16/see-text-in-whole-new-waytext-visualization-tools/
 
 ## Data Repositories 
+ * [Awesome Datasets](https://github.com/caesar0301/awesome-public-datasets)
  * [Datahub](http://datahub.io/) - Open Knowledge foundation
  * [CommonCrawl](http://commoncrawl.org/)
  * [Knoema](http://knoema.es/)
