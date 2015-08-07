@@ -59,6 +59,7 @@
 * [Awesome - Dataviz](https://github.com/fasouto/awesome-dataviz)
 * [Data Visualization Catalogue](http://www.datavizcatalogue.com/)
 * [Vizipedia - a data visualization library](http://www.vizipedia.com/)
+* [Interactive Data Visualization for the web](http://chimera.labs.oreilly.com/books/1230000000345)
 
 ## Streaming Algorithms 
  * https://gist.github.com/debasishg/8172796?imm_mid=0d16f4&cmp=em-data-na-na-newsltr_20150506
