@@ -64,6 +64,9 @@
 ## Streaming Algorithms 
  * https://gist.github.com/debasishg/8172796?imm_mid=0d16f4&cmp=em-data-na-na-newsltr_20150506
 
+## Data Engineering and Architecture
+* [Designing data-intensive applications](http://dataintensive.net/)
+
 ## Tools
 ### R 
   * [R in Action](http://www.manning.com/kabacoff2/)
