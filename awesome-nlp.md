@@ -73,10 +73,16 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 * [Elastic](https://www.elastic.co/)
 * [Sphinx](http://sphinxsearch.com/)
 * [WordTree](http://www.jasondavies.com/wordtree/) https://blogs.princeton.edu/etc/2012/08/16/see-text-in-whole-new-waytext-visualization-tools/
+* [mitie](https://github.com/mit-nlp/MITIE)
+* [koshik](https://github.com/peterexner/KOSHIK)
+* [mavuno](https://github.com/metzlerd/mavuno)
+* [argo](http://argo.nactem.ac.uk/)
+
+* [evaluation of sequence taggers](http://fnl.es/a-review-of-sparse-sequence-taggers.html)
+* [resources at u. Virginia](http://www.cs.virginia.edu/~hw5x/Course/Text-Mining-2015-Spring/_site/resources/)
 
 ## Data Repositories 
  * [Awesome Datasets](https://github.com/caesar0301/awesome-public-datasets)
  * [Datahub](http://datahub.io/) - Open Knowledge foundation
  * [CommonCrawl](http://commoncrawl.org/)
  * [Knoema](http://knoema.es/)
-
