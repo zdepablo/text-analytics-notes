@@ -17,6 +17,8 @@
  [Overview](https://www.overviewdocs.com/)
   * Clustering large collections of text with visual analysis
 
+[word cloud for topic modelling](https://dhs.stanford.edu/algorithmic-literacy/using-word-clouds-for-topic-modeling-results/)
+
 ## Labs 
 [U. Washington Interactive Data Lab](http://idl.cs.washington.edu/) - prev. Stanford
 [Neoformix](http://neoformix.com/)
