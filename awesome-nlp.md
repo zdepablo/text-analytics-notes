@@ -78,6 +78,10 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 * [mavuno](https://github.com/metzlerd/mavuno)
 * [argo](http://argo.nactem.ac.uk/)
 * [noah's ark](http://www.ark.cs.cmu.edu/TweetNLP/)
+* [deeplearning4j](http://deeplearning4j.org)
+* [chainer](http://chainer.org)
+* [theano]
+* [torch7]
 
 * [evaluation of sequence taggers](http://fnl.es/a-review-of-sparse-sequence-taggers.html)
 * [resources at u. Virginia](http://www.cs.virginia.edu/~hw5x/Course/Text-Mining-2015-Spring/_site/resources/)
