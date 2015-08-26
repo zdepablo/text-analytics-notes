@@ -82,6 +82,8 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 * [chainer](http://chainer.org)
 * [theano]
 * [torch7]
+* [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) in R 
+* [LDAvis](https://github.com/cpsievert/LDAvis/) - LDA Visualization in R
 
 * [evaluation of sequence taggers](http://fnl.es/a-review-of-sparse-sequence-taggers.html)
 * [resources at u. Virginia](http://www.cs.virginia.edu/~hw5x/Course/Text-Mining-2015-Spring/_site/resources/)
