@@ -158,6 +158,7 @@
 
 ## Other interesting lists: 
  * [Cheatsheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+ * (http://www.learndatasci.com/free-books/?utm_campaign=Data+Elixir&utm_medium=email&utm_source=Data_Elixir_50)
  * (https://github.com/donnemartin/data-science-ipython-notebooks)
  * (https://github.com/tryolabs/awesome-tryo)
  * (http://www.wzchen.com/data-science-books)
