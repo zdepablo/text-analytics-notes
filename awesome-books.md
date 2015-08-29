@@ -91,6 +91,7 @@
   * [TextBlob](http://textblob.readthedocs.org/en/dev/install.html)
   
   * iPython Notebooks
+   * http://nbviewer.ipython.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
    * https://github.com/ogrisel/parallel_ml_tutorial 
    * https://github.com/ellisonbg/talk-2014-strata-sc
    * https://jakevdp.github.io/
