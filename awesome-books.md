@@ -89,6 +89,7 @@
   * [Awesome Python](https://github.com/vinta/awesome-python)
   * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html)
   * [TextBlob](http://textblob.readthedocs.org/en/dev/install.html)
+  * [Intermediate Python](http://book.pythontips.com/en/latest/)
   
   * iPython Notebooks
    * http://nbviewer.ipython.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
