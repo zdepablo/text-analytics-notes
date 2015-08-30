@@ -121,13 +121,15 @@
    * http://nbviewer.ipython.org/github/Syrios12/learningwithdata/blob/master/Python_For_Data_Mining.ipynb
    * http://marcobonzanini.com/2015/01/19/sentiment-analysis-with-python-and-scikit-learn/
    * http://districtdatalabs.silvrback.com/simple-csv-data-wrangling-with-python
-   * http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0b6350b6a4911e2/docs/Large%20Scale%20PGM%20Inference.ipynb
+   *
+http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0b6350b6a4911e2/docs/Large%20Scale%20PGM%20Inference.ipynb
    * https://github.com/jseabold/538model
    * https://dato.com/learn/gallery/notebooks/graph_analytics_movies.html
    * http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb
    * http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb
    * https://github.com/google/deepdream/blob/master/dream.ipynb
-  
+   * http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
+
 ### Spark 
  * [Databricks Spark Reference Application](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
 
