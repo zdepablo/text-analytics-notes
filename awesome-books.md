@@ -173,3 +173,4 @@ http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0
  * (http://christonard.com/12-free-data-mining-books/?imm_mid=0bd168&cmp=em-strata-na-na-newsltr_20140528_elist)
  * (https://medium.com/@karlsluis/beyond-tufte-fd93cbcec6af)
  * (http://blog.matthewrathbone.com/2013/05/31/hadoop-resources---books.html)
+ * (http://beekeeperdata.com/posts/scala/2015/05/01/five-resources-for-transitioning-to-scala.html)
