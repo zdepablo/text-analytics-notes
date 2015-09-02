@@ -20,6 +20,8 @@
 
 ## Linked Data 
  [Linked Data: Evolving the Web into a Global Data Space](http://linkeddatabook.com/editions/1.0/)
+ (https://www.packtpub.com/big-data-and-business-intelligence/using-openrefine)
+ (http://freeyourmetadata.org/)
 
 ## Data Science
 * [Mining Massive Datasets](http://www.mmds.org/) Jure Leskovec, Anand Rajaraman, Jeff Ullman
