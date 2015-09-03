@@ -55,6 +55,8 @@
 ## Probabilistic Programming 
 * [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
 * [Probabilistic Models of Cognition](https://probmods.org/)
+* [Practical Probabilistic Programming](https://www.manning.com/books/practical-probabilistic-programming)
+* [Stan](http://mc-stan.org/)
 
 ## Information Visualization
 * [Data Visualization with Javascript](http://jsdatav.is/intro.html)
