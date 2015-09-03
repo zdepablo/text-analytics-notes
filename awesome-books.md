@@ -178,3 +178,4 @@ http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0
  * (https://medium.com/@karlsluis/beyond-tufte-fd93cbcec6af)
  * (http://blog.matthewrathbone.com/2013/05/31/hadoop-resources---books.html)
  * (http://beekeeperdata.com/posts/scala/2015/05/01/five-resources-for-transitioning-to-scala.html)
+ * (http://www.aioptify.com/topmldmbooks.php?utm_source=reddit&utm_medium=cpm&utm_campaign=contentpromotion)
