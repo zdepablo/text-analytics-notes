@@ -134,6 +134,7 @@ http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0
    * http://nbviewer.ipython.org/github/fisadev/world_cup_learning/blob/master/learn.ipynb
    * https://github.com/google/deepdream/blob/master/dream.ipynb
    * http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
+   * http://jadianes.me/data-science-your-way/
 
 ### Spark 
  * [Databricks Spark Reference Application](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
