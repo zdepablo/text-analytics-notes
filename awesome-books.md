@@ -70,6 +70,7 @@
 
 ## Data Engineering and Architecture
 * [Designing data-intensive applications](http://dataintensive.net/)
+* [RESTful cookbook](http://restcookbook.com/)
 
 ## Tools
 ### R 
