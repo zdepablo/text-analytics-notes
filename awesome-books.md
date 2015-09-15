@@ -89,6 +89,8 @@
   * [Dive into Python](http://www.diveintopython.net/)
   * [Introduction to Python for Econometrics, Statistics and Data Analysis](https://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)
   * [Text Processing in Python](http://gnosis.cx/TPiP/)
+  * [Python cookbook](http://chimera.labs.oreilly.com/books/1230000000393)
+  * [Python 3 Patterns and idioms](https://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html)
   * [NBViewer Collection of Notebooks](http://nbviewer.ipython.org/)
   * [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
   * [Awesome Python](https://github.com/vinta/awesome-python)
@@ -181,3 +183,4 @@ http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0
  * (http://blog.matthewrathbone.com/2013/05/31/hadoop-resources---books.html)
  * (http://beekeeperdata.com/posts/scala/2015/05/01/five-resources-for-transitioning-to-scala.html)
  * (http://www.aioptify.com/topmldmbooks.php?utm_source=reddit&utm_medium=cpm&utm_campaign=contentpromotion)
+ * (http://awesome-python.com)
