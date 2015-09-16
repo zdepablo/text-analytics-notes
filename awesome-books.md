@@ -66,7 +66,7 @@
 * [Interactive Data Visualization for the web](http://chimera.labs.oreilly.com/books/1230000000345)
 
 ## Streaming Algorithms 
- * https://gist.github.com/debasishg/8172796?imm_mid=0d16f4&cmp=em-data-na-na-newsltr_20150506
+ * https://gist.github.com/debasishg/8172796
 
 ## Data Engineering and Architecture
 * [Designing data-intensive applications](http://dataintensive.net/)
@@ -102,6 +102,7 @@
    * http://nbviewer.ipython.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
    * https://github.com/ogrisel/parallel_ml_tutorial 
    * https://github.com/ellisonbg/talk-2014-strata-sc
+   * http://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis
    * https://jakevdp.github.io/
    * https://github.com/jvns/pandas-cookbook
    * http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb
