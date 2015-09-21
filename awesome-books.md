@@ -42,7 +42,7 @@
 * [Metric Learning](http://www.morganclaypool.com/doi/abs/10.2200/S00626ED1V01Y201501AIM030)
 * [Machine Learning - The complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide) - articles from Wikipedia
 * [Data Science at the Command Line](http://datascienceatthecommandline.com/)
-* [ntroduction to Probability, Statistics, and Random Processes](http://www.probabilitycourse.com/preface.php)
+* [Introduction to Probability, Statistics, and Random Processes](http://www.probabilitycourse.com/preface.php)
 * [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
 * [Data Science in Python](http://blog.yhathq.com/posts/data-science-in-python-tutorial.html)
 * [An Introduction to Data Mining](http://saedsayad.com/data_mining_map.htm)
@@ -97,6 +97,7 @@
   * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html)
   * [TextBlob](http://textblob.readthedocs.org/en/dev/install.html)
   * [Intermediate Python](http://book.pythontips.com/en/latest/)
+  * [Web Scraping in Python](https://library.oreilly.com/book/0636920034391/web-scraping-with-python/toc)
   
   * iPython Notebooks
    * http://nbviewer.ipython.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
