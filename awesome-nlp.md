@@ -84,6 +84,9 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 * [torch7]
 * [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) in R 
 * [LDAvis](https://github.com/cpsievert/LDAvis/) - LDA Visualization in R
+* [XGBoost](https://github.com/dmlc/xgboost) - Large scale gradient boosting with Python and R wrappers
+* [Sofia-ml](https://code.google.com/p/sofia-ml/) Large scale online algorithms - eg. Passive Aggresive perceptron, Pereceptron with margins 
+* [Wowpal-wabbit](https://github.com/JohnLangford/vowpal_wabbit) - fast, scalable ML - includes also lda and active learning [Tutorial](https://github.com/JohnLangford/vowpal_wabbit/wiki/Tutorial)
 
 * [evaluation of sequence taggers](http://fnl.es/a-review-of-sparse-sequence-taggers.html)
 * [resources at u. Virginia](http://www.cs.virginia.edu/~hw5x/Course/Text-Mining-2015-Spring/_site/resources/)
