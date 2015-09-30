@@ -83,6 +83,7 @@
   * [Advanced R] (http://adv-r.had.co.nz/) Hadley Wickam
   * [Awesome R](https://github.com/qinwf/awesome-R)
   * [Datacamp](https://www.datacamp.com/)
+  * [Resources for doing Data Journalism in R](http://rddj.info/)
   * https://rpubs.com/soofaloofa/92640
   * https://rpubs.com/jesuscastagnetto/caret-knn-cancer-prediction
   
