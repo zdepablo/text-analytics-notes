@@ -174,6 +174,7 @@ http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0
 
 ## Other interesting lists: 
  * [Cheatsheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+ * [Awesone Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
  * (http://www.learndatasci.com/free-books/)
  * (https://github.com/donnemartin/data-science-ipython-notebooks)
  * (https://github.com/tryolabs/awesome-tryo)
