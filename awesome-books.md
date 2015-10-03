@@ -10,7 +10,7 @@
 * [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 * Graph-based Natural Language Processing and Information Retrieval
 * [Natural Language Procesing for the Worker Programmer] (http://nlpwp.org/book/) - in Haskell
-* [Speech and Language Processing] (http://www.cs.colorado.edu/~martin/slp.html)
+* [Speech and Language Processing] (http://www.cs.colorado.edu/~martin/slp.html)  [Draft chapters 3rd ed](http://web.stanford.edu/~jurafsky/slp3/)
 * [Taming Text](http://www.manning.com/ingersoll/)
 * [NLTK Essentials](http://www.allitebooks.com/nltk-essentials/)
 * [Supervised sequence labelling with recurrent networks](http://www.springer.com/gp/book/9783642247965)
