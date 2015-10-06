@@ -10,7 +10,7 @@
 * [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 * Graph-based Natural Language Processing and Information Retrieval
 * [Natural Language Procesing for the Worker Programmer] (http://nlpwp.org/book/) - in Haskell
-* [Speech and Language Processing] (http://www.cs.colorado.edu/~martin/slp.html)
+* [Speech and Language Processing] (http://www.cs.colorado.edu/~martin/slp.html)  [Draft chapters 3rd ed](http://web.stanford.edu/~jurafsky/slp3/)
 * [Taming Text](http://www.manning.com/ingersoll/)
 * [NLTK Essentials](http://www.allitebooks.com/nltk-essentials/)
 * [Supervised sequence labelling with recurrent networks](http://www.springer.com/gp/book/9783642247965)
@@ -83,6 +83,7 @@
   * [Advanced R] (http://adv-r.had.co.nz/) Hadley Wickam
   * [Awesome R](https://github.com/qinwf/awesome-R)
   * [Datacamp](https://www.datacamp.com/)
+  * [Resources for doing Data Journalism in R](http://rddj.info/)
   * https://rpubs.com/soofaloofa/92640
   * https://rpubs.com/jesuscastagnetto/caret-knn-cancer-prediction
   
@@ -141,6 +142,7 @@ http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0
    * https://github.com/google/deepdream/blob/master/dream.ipynb
    * http://www.gregreda.com/2015/08/23/cohort-analysis-with-python/
    * http://jadianes.me/data-science-your-way/
+   * http://blaze.pydata.org/blog/2015/09/16/reddit-impala/
 
 ### Spark 
  * [Databricks Spark Reference Application](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
@@ -174,6 +176,7 @@ http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0
 
 ## Other interesting lists: 
  * [Cheatsheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+ * [Awesone Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
  * (http://www.learndatasci.com/free-books/)
  * (https://github.com/donnemartin/data-science-ipython-notebooks)
  * (https://github.com/tryolabs/awesome-tryo)
