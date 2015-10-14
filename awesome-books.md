@@ -146,6 +146,7 @@ http://nbviewer.ipython.org/github/kadeng/pypgmc/blob/5babbe3df7ff4bbb8348bf81a0
 
 ### Spark 
  * [Databricks Spark Reference Application](https://www.gitbook.com/book/databricks/databricks-spark-reference-applications/details)
+ * [Databricks Spark Summit 2014 Exercises](https://databricks-training.s3.amazonaws.com/index.html#prerequisites)
 
 ### Python + Spark
   * https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python
