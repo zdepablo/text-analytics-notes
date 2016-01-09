@@ -37,3 +37,10 @@ Prentice Hall (May 16, 2008)
 * Grant S. Ingersoll, Thomas S. Morton , Andrew L. Farris  **Taming Text: How to Find, Organize, and Manipulate It Paperback**
 January 24, 2013
  Manning Publications
+
+
+## Otras utilidades
+* [htpp://tmpnb.org] - Creates a temporary notebook server in a Docker container
+* (Binder)[http://mybinder.org/]
+
+
