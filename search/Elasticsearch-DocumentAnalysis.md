@@ -32,6 +32,7 @@ Usual datatypes
       * Null values
       * Arrays
       * Objects 
+      * Nested
 
 
 ### Get a mapping / eg. inferred 
