@@ -1,0 +1,81 @@
+Introducción a Buscadores 
+ - 20 minutos 
+
+Indexación - índices invertidos
+ - 20 minutos
+
+Relevancia 
+ - 20 minutos
+
+.
+
+[Lucene: Introducción y ejemplo de indexacion]
+ - 30 minutos 
+
+----------
+
+Introducción a Elasticsearch
+ - 15 minutos
+
+Elasticsearch - "Base de datos" documental
+ - 40 minutos
+ - Ejemplos de indexacion, borrado, modificacion de documentos, búsqueda DSL sencillos
+
+..
+
+Elasticsearch - Buscador de documentos 
+ - 60 minutos 
+ - Analisis y mapeos 
+ - Funciones de busqueda 
+ - Relevancia
+ - Highlighting 
+ - Ejemplos de indexacion con series de TV 
+
+...
+
+Elasticsearch - Distribucion y Administración
+  - 30 min 
+  - Clusters 
+  - ELK 
+  - Plugins 
+  - Sense
+  - Marvel
+  - Ejemplo de diferentes herramientas de administracion. 
+  - [Ejemplo de cluster]
+
+Elasticsearch + Kibana - Motor de análitica en tiempo real 
+  - 30 min 
+  - Agregaciones
+  - Ejemplo de analisis y visualización con Kibana 
+  
+....
+
+[Elasticsearch + Kibana + Logstash - Motor de logs]
+
+[Elasticsearch - Buscador avanzado]
+   - Busqueda facetada
+   - Sugerencia de búsqueda
+   - More Like This 
+   - Record Linkage 
+   - Percolator 
+
+[Elasticsearch - Geo extensions]
+
+[Elasticsearch - Complex document models]
+
+-----
+
+Ejemplo de indexacion de Wikipedia o de la colección de TripAdvisor
+ - Si sobrase tiempo podríamos tratar de empezar en casa
+
+
+Introduccion a Solr
+  - 15 min 
+
+Comparativa ES vs Solr vs MongoDB vs RDB
+ - 10 min 
+
+.....
+
+Practica
+
