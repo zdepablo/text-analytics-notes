@@ -1,13 +1,11 @@
 Introducción a Buscadores 
  - 20 minutos 
 
-Indexación - índices invertidos
+Motores de búsqueda - Indexación
  - 20 minutos
 
-Relevancia 
+Motores de búsqueda - Relevancia 
  - 20 minutos
-
-.
 
 [Lucene: Introducción y ejemplo de indexacion]
  - 30 minutos 
@@ -17,7 +15,7 @@ Relevancia
 Introducción a Elasticsearch
  - 15 minutos
 
-Elasticsearch - "Base de datos" documental
+Elasticsearch - "Almacen de datos" documental
  - 40 minutos
  - Ejemplos de indexacion, borrado, modificacion de documentos, búsqueda DSL sencillos
 
