@@ -1,8 +1,16 @@
 Introducción a Buscadores 
- - 20 minutos 
+ - 20 minutos
 
+[TODO] Entero
+[TODO] Arquitectura de un buscador
+ 
 Motores de búsqueda - Indexación
  - 20 minutos
+ 
+[TODO] Mejorar la imagen con el flujo de indexacion
+[TODO] Explicar mejor el proceso típico de indexacion 
+[TODO] Segmentos
+[TODO] Shards y replicas
 
 Motores de búsqueda - Relevancia 
  - 20 minutos
@@ -21,10 +29,15 @@ Elasticsearch - "Almacen de datos" documental
 
 ..
 
-Elasticsearch - Buscador de documentos 
- - 60 minutos 
+Elasticsearch - indexacion de documentos 
+ - 30 minutos 
  - Analisis y mapeos 
- - Funciones de busqueda 
+[TODO] Ejecutar de nuevo 
+ 
+
+Elasticsearch - Buscador de documentos 
+ - 40 minutos 
+ - Funciones de busqueda
  - Relevancia
  - Highlighting 
  - Ejemplos de indexacion con series de TV 
@@ -40,6 +53,10 @@ Elasticsearch - Distribucion y Administración
   - Marvel
   - Ejemplo de diferentes herramientas de administracion. 
   - [Ejemplo de cluster]
+
+[TODO] Dibujo de indices, shards y réplicas 
+[TODO] Proceso de scatter-gatherS
+
 
 Elasticsearch + Kibana - Motor de análitica en tiempo real 
   - 30 min 
