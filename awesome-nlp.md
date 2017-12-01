@@ -46,6 +46,12 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 ## Lexical Resources and Graph Knowledge Bases
   * [Babelnet](http://babelnet.org/)
 
+## Text similarity libraries
+
+ * [Java String Similarity](https://github.com/tdebatty/java-string-similarity)
+ * [Apache Commons Text](https://commons.apache.org/proper/commons-text/userguide.html)
+ * [Second String](https://github.com/TeamCohen/secondstring)
+
 ## Other utilities 
 * [Feedparser](http://code.google.com/p/feedparser/) - Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds
 * [Oryx 2](http://oryx.io/index.html) - Real time machine learning at scale - lambda architecture 
@@ -90,6 +96,8 @@ http://readwrite.com/2011/06/10/head-to-head-comparison-of-tex
 
 * [evaluation of sequence taggers](http://fnl.es/a-review-of-sparse-sequence-taggers.html)
 * [resources at u. Virginia](http://www.cs.virginia.edu/~hw5x/Course/Text-Mining-2015-Spring/_site/resources/)
+* [MinirThird](https://github.com/TeamCohen/MinorThird)
+* [TensorLog](https://github.com/TeamCohen/TensorLog)
 
 ## Data Repositories 
  * [Awesome Datasets](https://github.com/caesar0301/awesome-public-datasets)
